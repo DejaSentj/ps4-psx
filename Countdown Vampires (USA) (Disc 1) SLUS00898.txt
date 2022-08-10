@@ -1,0 +1,10 @@
+#Game Settings (Per game)
+--ps1-title-id=SLUS00898
+--bios-hide-sce-osd=0
+--has-shown-start-select-help=0
+#--pace-gpu-dma=true
+--scale=6
+#--antialias="MSAA_4x"
+#--gpu-scanout-fps-override=60
+#--dev_menu=1
+--cdrom-max-seek=true
